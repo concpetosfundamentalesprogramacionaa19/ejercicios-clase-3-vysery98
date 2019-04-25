@@ -7,7 +7,7 @@ package ejercicios3;
 
 /**
  *
- * @author reroes
+ * @author vysery98
  */
 public class Ejercicios3 {
 
