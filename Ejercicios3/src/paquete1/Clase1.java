@@ -7,7 +7,7 @@ package paquete1;
 
 /**
  *
- * @author reroes
+ * @author vysery98
  */
 public class Clase1 {
     public static int tabla = 10;
