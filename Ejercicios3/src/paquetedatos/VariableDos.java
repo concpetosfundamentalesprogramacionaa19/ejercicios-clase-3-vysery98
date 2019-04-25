@@ -7,7 +7,7 @@ package paquetedatos;
 
 /**
  *
- * @author Salas
+ * @author vysery98
  */
 public class VariableDos {
     //creación de variable estática
