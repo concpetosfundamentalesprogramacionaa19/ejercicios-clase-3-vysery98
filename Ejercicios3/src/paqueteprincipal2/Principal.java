@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package paqueteprincipal2;
 
 //import paquetedatos.*; /* llama a todas las clases del paquete */
@@ -11,7 +6,7 @@ import paquetedatos.VariableDos;
 
 /**
  *
- * @author Fernando
+ * @author vysery98
  */
 public class Principal {
 
